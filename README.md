@@ -9,7 +9,7 @@ I'm a business administrator and full stack developer ready for new challenges
 ---
 ### ⚡ Let's get started 
 
- <h5>First my beliefs:</h5>
+ <h5>First my principles:</h5>
 
 - Learning lover
 - Teamwork is priority
