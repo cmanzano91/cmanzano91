@@ -1,8 +1,23 @@
 ### Hi there 👋
 
-## Welcome to my personal workspace!
+### Welcome to my personal workspace!
 --- 
+I'm a business administrator and full stack developer ready for new challenges!!!
 
+---
+⚡ Let's get started with my beliefs:
+
+- Learning lover
+- Teamwork is priority
+- Never stop communicating
+- Always do
+- Google has the answer
+
+```bash
+Languages and tools
+
+
+```
 
 <!--
 **cmanzano91/cmanzano91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
