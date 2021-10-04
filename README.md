@@ -12,12 +12,18 @@ I'm a business administrator and full stack developer ready for new challenges!!
 - Never stop communicating
 - Always do
 - Google has the answer
-
+---
 ```bash
-Languages and tools
+#### Languages and tools
 
 
 ```
+---
+Any questions??
+
+📫 Contact me
+catumanzano@gmail.com
+https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/
 
 <!--
 **cmanzano91/cmanzano91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
