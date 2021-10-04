@@ -11,7 +11,7 @@ I'm a business administrator and full stack developer ready for new challenges
 
  <h5>First my mantra:</h5>
 
-- Learning is love
+- Learning makes the world go round
 - Teamwork is priority
 - Never stop communicating
 - Always do
