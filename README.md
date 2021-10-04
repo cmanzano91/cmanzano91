@@ -5,7 +5,7 @@
 I'm a business administrator and full stack developer ready for new challenges!!!
 
 ---
-⚡ Let's get started with my beliefs:
+⚡ <h3>Let's get started with my beliefs:</h3>
 
 - Learning lover
 - Teamwork is priority
