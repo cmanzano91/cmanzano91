@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my personal workspace
+### Welcome to my workspace
 ```bash 
 
 I'm a business administrator and full stack developer ready for new challenges
