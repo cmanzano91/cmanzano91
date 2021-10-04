@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-### Welcome to my personal workspace!
+### Welcome to my personal workspace
 ```bash 
-I'm a business administrator and full stack developer ready for new challenges!!!
+
+I'm a business administrator and full stack developer ready for new challenges
 
 ```
 ---
-### Let's get started
+### ⚡ Let's get started 
 
-⚡ <h5>First my beliefs:</h5>
+ <h5>First my beliefs:</h5>
 
 - Learning lover
 - Teamwork is priority
