@@ -24,7 +24,8 @@ I'm a business administrator and full stack developer ready for new challenges
 ---
 <h3>Any questions??</h3>
 
- 📫 <h5>Contact me</5>
+ 📫 <h5>Contact me</h5>
+<hr>
 <br/>
 Email: catumanzano@gmail.com
 <br/>
