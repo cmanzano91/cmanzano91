@@ -24,11 +24,11 @@ I'm a business administrator and full stack developer ready for new challenges
 ---
 <h3>Any questions??</h3>
 
-📫 Contact me
+ 📫 <h5>Contact me</5>
 <br/>
-catumanzano@gmail.com
+Email: catumanzano@gmail.com
 <br/>
-https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/
+Linkedin: https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/
 
 <!--
 **cmanzano91/cmanzano91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
