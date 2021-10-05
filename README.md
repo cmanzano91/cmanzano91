@@ -19,6 +19,7 @@ I'm a business administrator and full stack developer ready for new challenges
 
 <h5>Some of my work</h5>
 <p>Individual proyect for Henry<p>
+ <a><img="https://user-images.githubusercontent.com/83507230/135928330-36022ed5-cd23-4d18-a694-08fada4eef9a.jpg" alt="registro"></a>
 ![registro](https://user-images.githubusercontent.com/83507230/135928330-36022ed5-cd23-4d18-a694-08fada4eef9a.jpg)
 ![home](https://user-images.githubusercontent.com/83507230/135928696-838f280a-eded-4f1d-8efc-efc76d600039.jpg)
 ![registro](https://user-images.githubusercontent.com/83507230/135928709-50676255-e897-465d-9216-9ba2ad848289.jpg)
