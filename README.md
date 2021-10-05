@@ -22,11 +22,6 @@ I'm a business administrator and full stack developer ready for new challenges
 <p align="left">
   <img height="200" src="./dog.png" />
 </p>
- <a><img="https://user-images.githubusercontent.com/83507230/135928330-36022ed5-cd23-4d18-a694-08fada4eef9a.jpg" alt="registro"></a>
-![registro](https://user-images.githubusercontent.com/83507230/135928330-36022ed5-cd23-4d18-a694-08fada4eef9a.jpg)
-![home](https://user-images.githubusercontent.com/83507230/135928696-838f280a-eded-4f1d-8efc-efc76d600039.jpg)
-![registro](https://user-images.githubusercontent.com/83507230/135928709-50676255-e897-465d-9216-9ba2ad848289.jpg)
- <img="https://user-images.githubusercontent.com/83507230/135928330-36022ed5-cd23-4d18-a694-08fada4eef9a.jpg" alt="home"/>
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
