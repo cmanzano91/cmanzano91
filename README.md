@@ -45,7 +45,6 @@ I'm a business administrator and full stack developer ready for new challenges
 <h3>Any questions??</h3>
 📫 
 <h5>Contact me</h5> 
-<br/>
 Email: catumanzano@gmail.com
 <br/>
 <a href="https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/" target="_blank">
