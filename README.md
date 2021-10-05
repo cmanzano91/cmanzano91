@@ -34,7 +34,9 @@ I'm a business administrator and full stack developer ready for new challenges
 <br/>
 Email: catumanzano@gmail.com
 <br/>
-Linkedin: https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/
+<a href="https://www.linkedin.com/in/catalina-manzano-eiras-b11a53a6/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> 
 
 <!--
 **cmanzano91/cmanzano91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
