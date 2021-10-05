@@ -20,7 +20,7 @@ I'm a business administrator and full stack developer ready for new challenges
 <h5>Some of my work</h5>
 <p>Individual proyect for Henry<p>
 <p align="left">
-  <img height="200" src="./dog.png" />
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6u0FtHEn-5Z_pfTPUZ1-2CycwuLZR_CKdeA&usqp=CAU" />
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
