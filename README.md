@@ -3,7 +3,7 @@
 ### Welcome to my workplace
 ```bash 
 
-I'm a business administrator and full stack developer ready for new challenges
+I'm a senior manager and full stack developer ready for new challenges
 
 ```
 ---
