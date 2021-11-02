@@ -26,7 +26,7 @@ I'm a senior manager and full stack developer ready for new challenges
 </p>
 <p>Group work for Henry<p>
 <p align="left">
-  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1dgagUDJU1yd45bn74JOlSi-6SrOZpj78/view?usp=sharing)
+  [![Watch the video]](https://drive.google.com/file/d/1dgagUDJU1yd45bn74JOlSi-6SrOZpj78/view?usp=sharing)
  </a>
 </p>
 
