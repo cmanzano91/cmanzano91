@@ -24,6 +24,12 @@ I'm a senior manager and full stack developer ready for new challenges
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6u0FtHEn-5Z_pfTPUZ1-2CycwuLZR_CKdeA&usqp=CAU" />
  </a>
 </p>
+<p>Group project for Henry<p>
+<p align="left">
+  <a href="https://vimeo.com/641787879">
+  <img height="200" src="" alt="El Potrero" />
+ </a>
+</p>
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> 
